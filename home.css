@@ -1,0 +1,26 @@
+ .detel img{
+right: 50px;
+border-radius: 50%;
+align-items: center;
+
+
+}
+.detel p{
+    font-size: 50px;
+    font-weight: bold;
+    color:black;
+}
+.hero h1{
+    font-size: 50px;
+    color: black;
+    
+}
+.hero{
+    background: yellow;
+
+border-top-left-radius: 50px;
+border-top-right-radius: 50px;
+border-bottom-left-radius: 50px;
+border-bottom-right-radius:50px ;
+    
+}
